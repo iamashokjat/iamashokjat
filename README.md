@@ -7,7 +7,7 @@
 - #### I'm currently learing Android Development ( Kotlin,Flutter )
 - #### I'm interested in Full Stack Development using ReactJs,React Native and NodeJs.<br> 
 <p>
- <img align="right" src="https://user-images.githubusercontent.com/46165235/103451727-780cd880-4ced-11eb-94f7-48fd79f5df81.gif" width="310px alt="programmergif">
+ <img align="right" src="https://user-images.githubusercontent.com/46165235/103452445-a5f61b00-4cf5-11eb-9f09-6ddb731db484.gif" width="310px alt="programmergif">
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamashokjat&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
