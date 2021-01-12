@@ -8,7 +8,7 @@
 - #### I'm interested in Full Stack Development using ReactJs,React Native and NodeJs.<br> 
 <p>
  <img align="right" src="https://user-images.githubusercontent.com/46165235/103452445-a5f61b00-4cf5-11eb-9f09-6ddb731db484.gif" height="310px" width="310px" alt="programmergif">
- <img align="right" src=" https://user-images.githubusercontent.com/46165235/104315311-c9447580-5500-11eb-8544-7127cf1de15e.gif" height="310px" width="310px" alt="programmergif">
+ <img src=" https://user-images.githubusercontent.com/46165235/104315311-c9447580-5500-11eb-8544-7127cf1de15e.gif" height="310px" width="310px" alt="programmergif">
 
 </p>
 
