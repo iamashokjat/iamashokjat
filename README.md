@@ -4,7 +4,6 @@
 
 - #### From Chennai,India.
 - #### Pursuing final year in Computer Science and Engineering
-- #### I'm currently learing Android Development ( Kotlin,Flutter )
 - #### I'm interested in Full Stack Development using ReactJs,React Native and NodeJs.<br> 
 <p>
  <img align="right" src="https://user-images.githubusercontent.com/46165235/103452445-a5f61b00-4cf5-11eb-9f09-6ddb731db484.gif" height="310px" width="310px" alt="programmergif">
